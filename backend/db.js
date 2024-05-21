@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-mongoose.connect("mongodb+srv://admin:admin%40123@cluster0.4idkso0.mongodb.net/")
+mongoose.connect("mongodb url")
 
 
 // elegant solution
